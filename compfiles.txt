@@ -1,0 +1,6 @@
+./miPrincipal/Principal.java
+./miPrincipal/AppLadrillos.java
+./miPrincipal/AppFactorial.java
+./miPrincipal/AppNaturales.java
+./miPrincipal/AppSumaDigitas.java
+./miTest/AppTest.java
